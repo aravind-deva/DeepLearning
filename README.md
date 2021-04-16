@@ -11,9 +11,10 @@ _Example_: **DeployNN** specifically covers deployment of NN models in cloud hos
 
 - Please create an AWS account for example and verify your service quotas for sagemaker notebook,training,transformation and deployment jobs/
 
-#Contribute
+# Contribute
 The solutions have been reviewed and test  with a wide variety of test inputs. 
 However , in case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
 
-
+# License
+Licensed under [LICENSE](LICENSE)
 
