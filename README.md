@@ -7,6 +7,9 @@ NN architectures such as CNN,RNN ,GAN etc.,
 
 My project _Dog-breed-classifier_aravind_brahmadevara_ received excellent feedback - **one of the best submissions to Udacity so far** by the reviewer 
 
+(https://github.com/aravind-deva/DeepLearning/blob/master/CNNFeedback.png)
+
+
 # How to use them
 
 - Each project will have a directory named after the objective it is going to achieve. 
